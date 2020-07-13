@@ -1,10 +1,10 @@
 <img align="right" width="400" height="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 
-# Hi, I'm Tran Huu Lam <img width="40" height="40" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+# Hi, I'm Tran Huu Lam <img width="30" height="30" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 
-System Engineer | Cloud Computing :robot:. (In progress)
+System Engineer | Cloud Computing 👨‍💻. (In progress)
 
 FPT Jetking Student. :man_technologist:
 

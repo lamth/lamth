@@ -1,7 +1,8 @@
 <img align="right" width="400" height="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 
-# Hi, I'm Tran Huu Lam :smiley_cat:
+# Hi, I'm Tran Huu Lam <img width="40" height="40" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+
 
 System Engineer | Cloud Computing :robot:. (In progress)
 

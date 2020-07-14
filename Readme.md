@@ -16,7 +16,7 @@ FPT Jetking Student. :smile:
 
 
 ## Contact me
-On [Telegram <img width="25" height="25" src="https://i.imgur.com/SQttFMf.png">](https://t.me/lamth) or [send me a mail](mailto:tranhuulam199@gmail.com)
+On [Telegram <img width="10" height="10" src="https://i.imgur.com/SQttFMf.png">](https://t.me/lamth) or [send me a mail](mailto:tranhuulam199@gmail.com)
 
 
 

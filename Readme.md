@@ -4,13 +4,13 @@
 # Hi, I'm Tran Huu Lam <img width="30" height="30" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 
-System Engineer | MediTech | Cloud Computing - AI – IoT Solution   👨‍💻. (In progress)
+System Engineer | MediTech .JSC | Cloud Computing - AI – IoT Solution   👨‍💻. (In progress)
 
 FPT Jetking Student. :smile:
 
 ## About me 
 
-:penguin: Linux  | :heart: Openstack | :whale: Docker
+:penguin: Linux | :computer: Network | :heart: Openstack | :whale: Docker
 
 :earth_asia: I'm from Hanoi | Vietnam
 

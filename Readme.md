@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://i.imgur.com/OBLW7Ci.png">
+
 
 
 # Hi, I'm Tran Huu Lam <img width="30" height="30" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
